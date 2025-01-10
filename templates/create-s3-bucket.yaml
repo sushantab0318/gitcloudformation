@@ -5,7 +5,7 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-bucket-sid-ytvideo
+      BucketName: my-bucket-sid-ytvideo-sush-0318
 
 Outputs:
   S3BucketName:
